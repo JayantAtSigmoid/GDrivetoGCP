@@ -31,7 +31,7 @@ This project contains scripts to automate the process of downloading CSV files f
 1. Clone this repository:
     ```sh
     git clone https://github.com/JayantAtSigmoid/GDrivetoGCP.git
-    cd data-transfer
+    cd GDrivetoGCP
     ```
 
 2. Install the required Python packages:

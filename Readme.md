@@ -30,7 +30,7 @@ This project contains scripts to automate the process of downloading CSV files f
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/your-repo/data-transfer.git
+    git clone https://github.com/JayantAtSigmoid/GDrivetoGCP.git
     cd data-transfer
     ```
 

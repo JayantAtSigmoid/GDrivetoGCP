@@ -2,27 +2,6 @@
 
 This project contains scripts to automate the process of downloading CSV files from a Google Drive folder, appending new data to an existing file stored in Google Cloud Storage (GCS), and uploading the updated file back to GCS. The script also maintains metadata to avoid re-downloading unchanged files.
 
-## Project Structure
-
-├── airflow-webserver.pid
-├── airflow.cfg
-├── airflow.db
-├── dags
-│ └── weekly_transfer_dag.py
-├── file_metadata.json
-├── logs
-├── Readme.md
-├── requirements.txt
-├── src
-│ ├── init.py
-│ ├── config.py
-│ ├── data_processing.py
-│ ├── drive_operations.py
-│ ├── gcs_operations.py
-│ └── main.py
-└── webserver_config.py
-
-
 
 ## Files Description
 
